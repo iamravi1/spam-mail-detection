@@ -21,4 +21,4 @@ To build the system ourselves we are going to follow these procedures:
 
 6. Predict Data – Finally we will predict our own emails using the model.  
 
-<img src="https://editor.analyticsvidhya.com/uploads/91446MODEL%20PIPELINE.PNG" style="height: 400px; width:1050px;"/>
+<img src="https://editor.analyticsvidhya.com/uploads/91446MODEL%20PIPELINE.PNG" style="height: 450px; width:1050px;"/>
